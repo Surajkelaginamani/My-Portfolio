@@ -66,7 +66,7 @@ export const DATA = {
     {
       name: "Hostel Smart Water Management System",
       sub: "IoT & MERN Stack",
-      stack: ["Node.js, Express.js, MongoDB Atlas, HTML/CSS/JS, C++ (Arduino), ESP32, Render, Netlify"],
+      stack: ["Node.js", "Express.js", "MongoDB Atlas", "HTML/CSS/JS","C++ (Arduino)", "ESP32", "Render", "Netlify"],
       live: "https://calm-melba-dff8e3.netlify.app/",
       github: "https://github.com/Surajkelaginamani/Hostel-Smart-Water-Management-System.git",
       points: [

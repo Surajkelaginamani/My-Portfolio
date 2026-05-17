@@ -63,7 +63,7 @@ export default function Hero() {
         </div>
 
         <div className="flex gap-8 flex-wrap">
-          {[['8.9', 'CGPA'], ['3+', 'Projects'], ['SIH 2025', 'Hackathon'], ['DIPEX 2026', 'Exhibition']].map(([n, l]) => (
+          {[['8.9', 'CGPA'], ['3+', 'Projects'], ['DIPEX 2026', 'Exhibition']].map(([n, l]) => (
             <div key={l} className="text-center">
               <div className="font-syne font-extrabold text-[clamp(20px,3vw,28px)] text-accent">{n}</div>
               <div className="text-[11px] text-text3 tracking-[1px] uppercase mt-0.5">{l}</div>
