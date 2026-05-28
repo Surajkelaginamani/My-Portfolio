@@ -41,8 +41,8 @@ export const DATA = {
       name: "MealMitra — Digital Tiffin Service",
       sub: "Team Project",
       stack: ["ReactJS", "Node.js", "MongoDB"],
-      live: "https://virexafrontend.vercel.app/",
-      github: null,
+      live: "https://meal-frontend-pi.vercel.app/",
+      github: "https://github.com/Surajkelaginamani/J1_ghya.git",
       points: [
         "Led frontend UI & contributed to backend logic for a tiffin marketplace.",
         "Architected role-specific dashboards for customers and vendors.",
